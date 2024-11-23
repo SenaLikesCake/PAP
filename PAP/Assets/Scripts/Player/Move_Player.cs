@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Movement : MonoBehaviour
+public class Move_Player : MonoBehaviour
 {
     public CharacterController controller;
     public Transform groundCheck;

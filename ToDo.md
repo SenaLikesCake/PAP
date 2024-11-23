@@ -16,9 +16,11 @@ l = Low Priority
     - [ ] Enemy Attack
     - [ ] Enemy Taking Damage
     - [ ] Enemy Death
-- [ ] Level Generation (l)
-  - [ ] Generate Start and End Points
-  - [ ] Generate Path between both points
-  - [ ] Generate branching dead ends
+- [ ] Map (l)
+  - [ ] Create Rooms (H)
+  - [ ] Procedural level generation (l)
+    - [ ] Generate Start and End Points
+    - [ ] Generate Path between both points
+    - [ ] Generate branching dead ends
  ## Notes
  - While procedural level generation isn't done, create a few rooms for testing and tasks with shorter deadlines.
